@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="login_title">PLEASE LOGIN TO QUIZ:</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="desc">The following quiz consists of 8 questions regarding udacity and all of them must be answered.So please kindly login to attempt the quiz.</string>
+    <string name="gdlk">GOOD LUCK</string>
+    <string name="marks">The quiz is for a total of 12 marks.Hope you enjoy it.</string>
+    <string name="quizapp">Q U I Z A P P</string>
+    <string name="confirmpass">Confirm Password</string>
+    <string name="getst">GET STARTED</string>
+    <string name="q1">1.When was Udacity officially launched?</string>
+    <string name="o11">Febraury 2012</string>
+    <string name="o12">June 2011</string>
+    <string name="o13">September 2013</string>
+    <string name="q2">"2.Which of the following atatements about udacity is correct?</string>
+    <string name="o21">By the summer of 2012 Udacity has students in 203 countries.</string>
+    <string name="o22">Udacity has most of its students in US.</string>
+    <string name="o23">By summer of 2012 India has 7% of students enrolled in udacity.</string>
+    <string name="q3">3.In 2014,first massive online open degree was opened by?</string>
+    <string name="o31">Stanford University</string>
+    <string name="o32">Georgia Institute of technology</string>
+    <string name="o33">Oxford University</string>
+    <string name="q4">4.Udacity is currently available in which language?</string>
+    <string name="q5">5.What does the course format of udacity comprise of?</string>
+    <string name="o51">Video Lectures</string>
+    <string name="o52">Comprehensive quizzes</string>
+    <string name="o53">Reinforcing Ideas</string>
+    <string name="q6">6.What is the type of education Udacity provides?</string>
+    <string name="o61">Distance Learning</string>
+    <string name="o62">College Education</string>
+    <string name="o63">Online Education</string>
+    <string name="q7">7.In which year did Sebastian Thrun won the Smithsonian American Ingenuity in Education Award for his work with Udacity?</string>
+    <string name="q8">8.Udacity was created by?</string>
+    <string name="submit">SUBMIT</string>
+
+</resources>
